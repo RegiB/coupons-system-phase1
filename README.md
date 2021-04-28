@@ -1,2 +1,2 @@
 # coupons-system-phase1
-Java basics in eclipse
+Java basics using eclipse
